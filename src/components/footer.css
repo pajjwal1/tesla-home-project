@@ -1,0 +1,15 @@
+.header__lower
+{
+	display: flex;
+	flex: 1;
+	display: inline-flex;
+	/*margin-left: 50%;*/
+	justify-content: center;
+	margin-left: 400px;
+	scroll-snap-align :start;
+	text-decoration-color: black;
+}
+.header__lower>p{
+	margin: 10px;
+	text-transform: uppercase;
+}
